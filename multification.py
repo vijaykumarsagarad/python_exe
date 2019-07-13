@@ -13,3 +13,4 @@ n=17
 	    p=n*r
 	    print(n,v,r,s,p)
 	    r=r+
+  
